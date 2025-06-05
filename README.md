@@ -47,3 +47,4 @@ If you see the error "OSError: image file is truncated", you may need to add the
 from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 ```
+By : Juho Kim, Saumik Khan, Haris Rasul
